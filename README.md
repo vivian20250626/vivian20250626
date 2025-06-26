@@ -58,4 +58,4 @@ Telegram频道传送门: 甄选优质Telegram频道，涵盖资讯、爆料、�
 社会影响:
 黑料大事记通过清晰的时间线梳理娱乐圈与网红圈的重大争议事件，系统呈现从爆料初现到舆论扩散及最终走向的全过程，是吃瓜群众了解八卦演变轨迹、回顾历史大瓜的核心参考平台。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/vivian20250626/vivian20250626）</span>
